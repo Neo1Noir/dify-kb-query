@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dify Knowledge Query"
+  short_description: "Search Dify knowledge and read source evidence"
+  default_prompt: "Use $dify-kb-query to find source-backed answers in my allowed Dify knowledge bases."

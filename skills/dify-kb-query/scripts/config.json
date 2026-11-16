@@ -1,0 +1,13 @@
+{
+  "api_base_url": "https://dify.example.invalid/v1",
+  "required_tags": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "name": "Engineering"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "name": "Sales"
+    }
+  ]
+}

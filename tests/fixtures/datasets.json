@@ -1,0 +1,81 @@
+{
+  "datasets": [
+    {
+      "id": "10000000-0000-4000-8000-000000000001",
+      "name": "[Engineering]-01-Requirements",
+      "alias": [
+        "Requirements",
+        "Requirements",
+        "01",
+        "req"
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000002",
+      "name": "[Engineering]-02-System design",
+      "alias": [
+        "System design",
+        "Design",
+        "02",
+        "design"
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000003",
+      "name": "[Engineering]-03-Feature design",
+      "alias": [
+        "Feature design",
+        "Feature",
+        "03"
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000004",
+      "name": "[Engineering]-04-Implementation",
+      "alias": [
+        "Code",
+        "Implementation",
+        "Code",
+        "04"
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000005",
+      "name": "[Engineering]-05-Testing",
+      "alias": [
+        "Test",
+        "Testing",
+        "05"
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000006",
+      "name": "[Engineering]-06-Releases",
+      "alias": [
+        "Release",
+        "Releases",
+        "06"
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000007",
+      "name": "[Engineering]-07-Operations",
+      "alias": [
+        "Operations",
+        "Operations",
+        "07"
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000008",
+      "name": "[Engineering]-08-Troubleshooting",
+      "alias": [
+        "Question",
+        "Experience",
+        "Incident",
+        "08",
+        "Troubleshooting"
+      ]
+    }
+  ]
+}
